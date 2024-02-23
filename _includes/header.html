@@ -1,0 +1,13 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">    
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><!--{{ site.title | escape }} --><img src="{{ BASE_PATH }}/assets/images/01_arte_mulheres_do_barro_10.jpg" alt=""></a>
+
+    {%- if page_paths -%}
+    {% include menutop.html %}
+      
+    {%- endif -%}
+  </div>
+</header>
