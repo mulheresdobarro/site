@@ -4,7 +4,7 @@
 
 [Website](https://mulheresdobarro.com.br)
 
-![Instagram](https://www.instagram.com/mulheresdobarro/)
+[Instagram](https://www.instagram.com/mulheresdobarro/)
 
 ## License
 
