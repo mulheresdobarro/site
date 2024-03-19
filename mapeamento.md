@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mapeamento
+permalink: /mapeamento/
 ---
 
 <h2>RESULTADOS ENCONTRADOS COM A PESQUISA DE CAMPO REALIZADA PELO MAPEAMENTO MULHERES DO BARRO DE TRACUNHAÉM/PE.</h2>

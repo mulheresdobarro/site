@@ -106,8 +106,8 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #f2c60f;
-  border-left: 4px solid #fcf4d1;
+  color: #5f1c0c;
+  border-left: 4px solid #e96c4e;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -123,7 +123,7 @@ blockquote > :last-child {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #fcf4d1;
+  border: 1px solid #e96c4e;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -178,7 +178,7 @@ pre > code {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #f2c60f;
+  fill: #5f1c0c;
   padding-right: 5px;
   vertical-align: text-top;
 }
@@ -196,28 +196,31 @@ table {
   text-align: left;
   color: #b13416;
   border-collapse: collapse;
-  border: 1px solid #fcf4d1;
+  border: 1px solid #e96c4e;
 }
 table tr:nth-child(even) {
-  background-color: #fefbee;
+  background-color: #ec8369;
 }
 table th, table td {
   padding: 10px 15px;
 }
 table th {
-  background-color: #fdf7df;
-  border: 1px solid #fbefbd;
-  border-bottom-color: #f9e696;
+  background-color: #f2c60f;
+  border: 1px solid;
+  border-color: #5f1c0c;
+  color: #5f1c0c;
 }
 table td {
-  border: 1px solid #fcf4d1;
+  border: 1px solid #5f1c0c;
+  background-color: #eb5e16;
+  color: #5f1c0c;
 }
 
 /**
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid #f2c60f;
+  border-bottom: 1px solid #5f1c0c;
   min-height: 55.95px;
   position: relative;
 }
@@ -231,7 +234,7 @@ table td {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: #7b6407;
+  color: black;
 }
 
 .site-nav {
@@ -257,7 +260,7 @@ table td {
     top: 9px;
     right: 15px;
     background-color: #eb5e16;
-    border: 1px solid #fcf4d1;
+    border: 1px solid #e96c4e;
     border-radius: 5px;
     text-align: right;
   }
@@ -279,7 +282,7 @@ table td {
     text-align: center;
   }
   .site-nav .menu-icon > svg {
-    fill: #7b6407;
+    fill: black;
   }
   .site-nav input ~ .trigger {
     clear: both;
@@ -303,7 +306,7 @@ table td {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #f2c60f;
+  border-top: 1px solid #5f1c0c;
   padding: 30px 0;
 }
 
@@ -389,7 +392,7 @@ table td {
 
 .post-meta {
   font-size: 14px;
-  color: #f2c60f;
+  color: #5f1c0c;
 }
 
 .post-link {
