@@ -57,13 +57,14 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  
 }
-
 
 
 /**
  * Figures
  */
+
 figure > img {
   display: block;
 }
@@ -237,7 +238,7 @@ table {
   border: 1px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: $branco;
     }
   }
   th, td {
@@ -252,7 +253,16 @@ table {
   }
   td {
     border: 1px solid $text-color;
-    background-color: $background-color;
+    background-color: $branco;
     color: $text-color;
   }
+}
+
+.regua img {
+  margin-bottom: -10px;
+  text-align: center;
+ 
+  
+  margin-left: -10px;
+  
 }
