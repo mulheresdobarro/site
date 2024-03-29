@@ -15,8 +15,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  color: $marrom;
+  background-color: $laranja;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -39,8 +39,6 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
-
-
 
 /**
  * `main` element
@@ -104,15 +102,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $amarelo;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($amarelo, 15%);
   }
 
   &:hover {
-    color: $text-color;
+    color: $marrom;
     text-decoration: underline;
   }
 
@@ -170,7 +168,56 @@ pre {
   }
 }
 
+.flex-container {
+  
+  display: flex;
 
+  flex-direction: column;
+  min-height: 100vh;
+  transition: transform .4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+  
+}
+.lista {
+  width: 150px;
+  height: 150px;
+  float: left;
+  
+  background-size: 200px;
+  text-align: center;
+  font-size: 10pt;
+  font-weight:800;
+  border: 5px solid $marrom;
+  margin: 10px;
+  
+  
+}
+
+.lista a{
+  background-color: $marrom;
+  color: $branco;
+  padding: 5px;
+}
+.card{
+  width: 50%;
+  text-align: center;
+}
+.flex-container.active {
+  transform: translate3d(300px, 0, 0);
+  &::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.5);
+  }
+}
+
+.content {
+  flex-grow: 1;
+}
 
 /**
  * Wrapper
@@ -233,9 +280,9 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
+  color: lighten($marrom, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 0px;
   tr {
     &:nth-child(even) {
       background-color: $branco;
@@ -245,23 +292,22 @@ table {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $brand-color;
-    border: 1px solid;
-    border-color: $text-color;
-    color: $text-color;
+    background-color: $amarelo;
+    border: 0px;
+    border-color: $marrom;
+    color: $marrom;
 
   }
   td {
-    border: 1px solid $text-color;
+    border: 0px;
     background-color: $branco;
-    color: $text-color;
+    color: $marrom;
   }
 }
 
 .regua img {
   margin-bottom: -10px;
   text-align: center;
- 
   
   margin-left: -10px;
   

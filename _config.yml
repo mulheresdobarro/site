@@ -3,6 +3,7 @@ email: contato.mulheresdobarro@gmail.com
 description: >-
   Mapeamento de mulheres artesãs da cidade de Tracunhaém - PE
 url: "https://mulheresdobarro.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
 instagram_username: mulheresdobarro
 youtube_username: "@mulheresdobarro"
 

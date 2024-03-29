@@ -1,65 +1,180 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-22T13:39:46-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mulheres do barro</title><subtitle>Mapeamento de mulheres artesãs da cidade de Tracunhaém - PE</subtitle><entry><title type="html">Sicraninha do Barro</title><link href="http://localhost:4000/2024/02/23/beltraninha-da-mata.html" rel="alternate" type="text/html" title="Sicraninha do Barro" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/2024/02/23/beltraninha-da-mata</id><content type="html" xml:base="http://localhost:4000/2024/02/23/beltraninha-da-mata.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-29T13:29:28-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mulheres do barro</title><subtitle>Mapeamento de mulheres artesãs da cidade de Tracunhaém - PE</subtitle><entry><title type="html">Camila Moraes</title><link href="http://localhost:4000/camilamoraes" rel="alternate" type="text/html" title="Camila Moraes" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/camila-moraes</id><content type="html" xml:base="http://localhost:4000/camilamoraes"><![CDATA[<p><img src="/assets/images/camilamoraes/camila.png" alt="Camila Moraes" /></p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/camilamoraes/camila1.jpg" /></li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/camilamoraes/camila2.jpg" /></li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+       <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/camilamoraes/camila3.jpg" /></li>
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/camilamoraes/camila.png" /><media:content medium="image" url="http://localhost:4000/assets/images/camilamoraes/camila.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chrys Tavares</title><link href="http://localhost:4000/chrystavares" rel="alternate" type="text/html" title="Chrys Tavares" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/chrys-tavares</id><content type="html" xml:base="http://localhost:4000/chrystavares"><![CDATA[<p><img src="/assets/images/chrystavares/chrystavares.png" alt="Chrys Tavares" /></p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/chrystavares/chrystavares1.jpg" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/chrystavares/chrystavares2.jpg" /></li>         
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">          
+          <li class="p-name"><img src="http://localhost:4000/assets/images/chrystavares/chrystavares3.jpg" /></li>         
+          <li class="p-name"><img src="http://localhost:4000/assets/images/chrystavares/chrystavares4.jpg" /></li>         
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+       <ul class="contact-list">          
+          <li class="p-name"><img src="http://localhost:4000/assets/images/chrystavares/chrystavares5.jpg" /></li>         
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/chrystavares/chrystavares.png" /><media:content medium="image" url="http://localhost:4000/assets/images/chrystavares/chrystavares.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Claudilene Fideles</title><link href="http://localhost:4000/claudilenefideles" rel="alternate" type="text/html" title="Claudilene Fideles" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/claudilene-fideles</id><content type="html" xml:base="http://localhost:4000/claudilenefideles"><![CDATA[<p><img src="/assets/images/claudilenefideles/claudilenefideles.png" alt="Claudilene Fideles" /></p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles1.jpg" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles2.jpg" /></li>
+        </ul>
+      </div> 
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">       
+          <li class="p-name"><img src="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles3.jpg" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles4.jpg" /></li>    
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles.png" /><media:content medium="image" url="http://localhost:4000/assets/images/claudilenefideles/claudilenefideles.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Denise Vasconcelos</title><link href="http://localhost:4000/denisevasconcelos" rel="alternate" type="text/html" title="Denise Vasconcelos" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/denise-vasconcelos</id><content type="html" xml:base="http://localhost:4000/denisevasconcelos"><![CDATA[<p><img src="/assets/images/denisevasconcelos/denisevasconcelos.png" alt="Denise Vasconcelos" /></p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos1.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos2.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos3.png" /></li> 
+        </ul>
+      </div> 
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos4.png" /></li>          
+          <li class="p-name"><img src="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos5.png" /></li>         
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos.png" /><media:content medium="image" url="http://localhost:4000/assets/images/denisevasconcelos/denisevasconcelos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dheny Santos</title><link href="http://localhost:4000/dhenysantos" rel="alternate" type="text/html" title="Dheny Santos" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/dheny-santos</id><content type="html" xml:base="http://localhost:4000/dhenysantos"><![CDATA[<p><img src="/assets/images/dhenysantos/dhenysantos.png" alt="Dheny Santos" /></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/dhenysantos/dhenysantos1.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/dhenysantos/dhenysantos2.png" /></li>
+        </ul>
+      </div> 
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">       
+          <li class="p-name"><img src="http://localhost:4000/assets/images/dhenysantos/dhenysantos3.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/dhenysantos/dhenysantos4.png" /></li>         
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/dhenysantos/dhenysantos.png" /><media:content medium="image" url="http://localhost:4000/assets/images/dhenysantos/dhenysantos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Eliete Lopes</title><link href="http://localhost:4000/elietelopes" rel="alternate" type="text/html" title="Eliete Lopes" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/eliete-lopes</id><content type="html" xml:base="http://localhost:4000/elietelopes"><![CDATA[<p><img src="/assets/images/elietelopes/elietelopes.png" alt="Eliete Lopes" /></p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Cintia Viana</title><link href="http://localhost:4000/2024/02/23/cintia-viana.html" rel="alternate" type="text/html" title="Cintia Viana" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/2024/02/23/cintia-viana</id><content type="html" xml:base="http://localhost:4000/2024/02/23/cintia-viana.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/elietelopes/elietelopes1.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/elietelopes/elietelopes2.png" /></li>
+        </ul>
+      </div> 
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">       
+          <li class="p-name"><img src="http://localhost:4000/assets/images/elietelopes/elietelopes3.png" /></li>
+          <li class="p-name"><img src="http://localhost:4000/assets/images/elietelopes/elietelopes4.png" /></li>         
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/elietelopes/elietelopes.png" /><media:content medium="image" url="http://localhost:4000/assets/images/elietelopes/elietelopes.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Grecylene</title><link href="http://localhost:4000/grecylene" rel="alternate" type="text/html" title="Grecylene" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/grecylene</id><content type="html" xml:base="http://localhost:4000/grecylene"><![CDATA[<p><img src="/assets/images/grecylene/grecylene.png" alt="Grecylene" /></p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<div class="wrapper">
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">
+        <li class="p-name"><img src="http://localhost:4000/assets/images/grecylene/grecylene1.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/grecylene/grecylene2.png" /></li>
+      </ul>
+    </div> 
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">       
+        <li class="p-name"><img src="http://localhost:4000/assets/images/grecylene/grecylene3.png" /></li>     
+      </ul>
+    </div>
+  </div>
+</div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/grecylene/grecylene.png" /><media:content medium="image" url="http://localhost:4000/assets/images/grecylene/grecylene.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Leliana Dantas</title><link href="http://localhost:4000/lelianadantas" rel="alternate" type="text/html" title="Leliana Dantas" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/leliana-dantas</id><content type="html" xml:base="http://localhost:4000/lelianadantas"><![CDATA[<p><img src="/assets/images/lelianadantas/lelianadantas.png" alt="Leliana Dantas" /></p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name"><img src="http://localhost:4000/assets/images/lelianadantas/lelianadantas1.png" /></li>
+            <li class="p-name"><img src="http://localhost:4000/assets/images/lelianadantas/lelianadantas2.png" /></li>
+        </ul>
+      </div> 
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">       
+          <li class="p-name"><img src="http://localhost:4000/assets/images/lelianadantas/lelianadantas3.png" /></li>     
+        </ul>
+      </div>
+    </div>
+  </div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/lelianadantas/lelianadantas.png" /><media:content medium="image" url="http://localhost:4000/assets/images/lelianadantas/lelianadantas.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Leninha Nascimento</title><link href="http://localhost:4000/leninhanascimento" rel="alternate" type="text/html" title="Leninha Nascimento" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/leninha-nascimento</id><content type="html" xml:base="http://localhost:4000/leninhanascimento"><![CDATA[<p><img src="/assets/images/leninhanascimento/leninhanascimento.png" alt="Leninha Nascimento" /></p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<div class="wrapper">
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">
+        <li class="p-name"><img src="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento1.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento2.png" /></li>
+      </ul>
+    </div> 
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">       
+        <li class="p-name"><img src="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento3.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento4.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento5.png" /></li>       
+      </ul>
+    </div>
+  </div>
+</div>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento.png" /><media:content medium="image" url="http://localhost:4000/assets/images/leninhanascimento/leninhanascimento.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Linda Goveia</title><link href="http://localhost:4000/lindagoveia" rel="alternate" type="text/html" title="Linda Goveia" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/linda-goveia</id><content type="html" xml:base="http://localhost:4000/lindagoveia"><![CDATA[<p><img src="/assets/images/lindagoveia/lindagoveia.png" alt="Linda Goveia" /></p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Fulana de Tal</title><link href="http://localhost:4000/2024/02/23/fulana-de-tal.html" rel="alternate" type="text/html" title="Fulana de Tal" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/2024/02/23/fulana-de-tal</id><content type="html" xml:base="http://localhost:4000/2024/02/23/fulana-de-tal.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="artesas" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Beltraninha da Mata</title><link href="http://localhost:4000/2024/02/23/sicraninha-do-barro.html" rel="alternate" type="text/html" title="Beltraninha da Mata" /><published>2024-02-23T00:00:00-03:00</published><updated>2024-02-23T00:00:00-03:00</updated><id>http://localhost:4000/2024/02/23/sicraninha-do-barro</id><content type="html" xml:base="http://localhost:4000/2024/02/23/sicraninha-do-barro.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<!--div class="wrapper">
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">
+        <li class="p-name"><img src="http://localhost:4000/assets/images/lindagoveia/lindagoveia1.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/lindagoveia/lindagoveia2.png" /></li>
+      </ul>
+    </div> 
+    <div class="footer-col footer-col-2">
+      <ul class="contact-list">       
+        <li class="p-name"><img src="http://localhost:4000/assets/images/lindagoveia/lindagoveia3.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/lindagoveia/lindagoveia4.png" /></li>
+        <li class="p-name"><img src="http://localhost:4000/assets/images/lindagoveia/lindagoveia5.png" /></li>
+      </ul>
+    </div>
+  </div>
+</div-->]]></content><author><name></name></author><category term="artesas" /><category term="destaques" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/lindagoveia/lindagoveia.png" /><media:content medium="image" url="http://localhost:4000/assets/images/lindagoveia/lindagoveia.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

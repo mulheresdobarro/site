@@ -1,0 +1,19 @@
+---
+layout: home-page
+permalink: /artesas
+---
+
+ 
+{% for post in site.posts %}
+      
+      <div class="lista">
+        <img src="{{post.image}}" alt="">
+        <a href="{{post.url}}">{{post.title}}</a>  
+      </div>
+      
+
+
+    
+    {% endfor %}
+
+
