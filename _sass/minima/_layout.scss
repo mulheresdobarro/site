@@ -20,7 +20,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $amarelo;
   }
 }
 
@@ -51,7 +51,7 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $laranja;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $amarelo;
     border-radius: 5px;
     text-align: right;
 
@@ -74,7 +74,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $amarelo;
       }
     }
 
@@ -199,7 +199,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $amarelo;
 }
 
 .post-link {

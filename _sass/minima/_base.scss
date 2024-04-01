@@ -128,8 +128,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $amarelo;
+  border-left: 4px solid $amarelo;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
@@ -148,7 +148,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid $amarelo;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -174,9 +174,28 @@ pre {
 
   flex-direction: column;
   min-height: 100vh;
-  transition: transform .4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+  transition: transform .4s cubic-bezier(0.16, 0.68, 0.43, 0.99);  
+}
+
+.popup {
+  position: fixed;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  margin: auto;
+  width: 500px;
+  height: 550px;
+  padding: 15px;
+  border: solid 1px $marrom;
+  background: $marrom;
+}
+.popup a {
+
+  color: $branco;
+  font-weight: 800;
+  float: right;
   
 }
+
 .lista {
   width: 150px;
   height: 150px;
@@ -197,9 +216,14 @@ pre {
   color: $branco;
   padding: 5px;
 }
-.card{
+.card {
   width: 50%;
+  display: contents;
   text-align: center;
+  
+}
+.card img{
+  
 }
 .flex-container.active {
   transform: translate3d(300px, 0, 0);
@@ -260,7 +284,7 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    fill: #{$amarelo};
     padding-right: 5px;
     vertical-align: text-top;
 }

@@ -15,13 +15,8 @@ $marrom: #5f1c0c !default;
 $laranja: #eb5e16 !default;
 $amarelo: #f2c60f !default;
 
-$grey-color:       #5f1c0c !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
 
-$span-color:       #e38922 !default;
-$span-color-light: lighten($grey-color, 40%) !default;
-$span-color-dark:  darken($grey-color, 25%) !default;
+
 
 $table-text-align: left !default;
 
@@ -52,5 +47,4 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
-;
+  "minima/syntax-highlighting";
