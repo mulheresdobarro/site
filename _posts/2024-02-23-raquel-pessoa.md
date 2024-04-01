@@ -3,24 +3,16 @@ layout: post
 title:  "Raquel Pessoa"
 tags: artesas destaques
 permalink: "/raquelpessoa"
-image: /assets/images/raquelpessoa/raquelpessoa.png
+foto: /assets/images/raquelpessoa/raquelpessoa.jpg
 ---
-![Raquel Pessoa]({{ page.image }})
 
-<div class="wrapper">
-  <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-2">
-      <ul class="contact-list">
-        <li class="p-name"><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa1.png" /></li>
-        <li class="p-name"><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa2.png" /></li>
+
+<div class="mostruario">
+      <ul>
+        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa1.jpg" /></li>
+        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa2.jpg" /></li>       
+        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa3.jpg" /></li>
+        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa4.jpg" /></li>      
       </ul>
-    </div> 
-    <div class="footer-col footer-col-2">
-      <ul class="contact-list">       
-        <li class="p-name"><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa3.png" /></li>
-        <li class="p-name"><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa4.png" /></li>      
-      </ul>
-    </div>
-  </div>
 </div>
   

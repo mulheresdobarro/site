@@ -182,18 +182,17 @@ pre {
   top: 0; bottom: 0;
   left: 0; right: 0;
   margin: auto;
-  width: 500px;
-  height: 550px;
-  padding: 15px;
-  border: solid 1px $marrom;
+  width: 400px;
+  height: 450px;
+  padding: 5px;
+  border: solid 5px $marrom;
   background: $marrom;
 }
 .popup a {
 
   color: $branco;
   font-weight: 800;
-  float: right;
-  
+  float: right; 
 }
 
 .lista {
@@ -211,20 +210,33 @@ pre {
   
 }
 
-.lista a{
+.foto-artesa {
+  text-align: center;
+}
+
+.lista h4{
   background-color: $marrom;
   color: $branco;
-  padding: 5px;
+  &:hover {
+    color: $branco;
+    text-decoration: underline;
+  }
+  
 }
-.card {
-  width: 50%;
-  display: contents;
+.mostruario div {
   text-align: center;
+}
+.mostruario ul {
+  list-style: none;
   
 }
-.card img{
-  
+.mostruario li {
+  border: 5px solid $marrom;
+  float: left;
+  width: 30%;
+  height: 30%;
 }
+
 .flex-container.active {
   transform: translate3d(300px, 0, 0);
   &::after {

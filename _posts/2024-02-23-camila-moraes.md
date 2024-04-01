@@ -3,27 +3,12 @@ layout: post
 title:  "Camila Moraes"
 tags: artesas destaques
 permalink: "/camilamoraes"
-image: /assets/images/camilamoraes/camila.png
+foto: /assets/images/camilamoraes/camilamoraes.jpg
 ---
-![Camila Moraes]({{ page.image }})
-
-<div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-2">
-        <ul class="contact-list">
-          <li class="p-name"><img src="{{ site.url }}/assets/images/camilamoraes/camila1.jpg" /></li>
-        </ul>
-      </div>
-      <div class="footer-col footer-col-2">
-        <ul class="contact-list">
-          <li class="p-name"><img src="{{ site.url }}/assets/images/camilamoraes/camila2.jpg" /></li>
-        </ul>
-      </div>
-      <div class="footer-col footer-col-2">
-       <ul class="contact-list">
-          <li class="p-name"><img src="{{ site.url }}/assets/images/camilamoraes/camila3.jpg" /></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  
+<div class="mostruario">
+  <ul>
+    <li><img src="{{ site.url }}/assets/images/camilamoraes/camilamoraes1.jpg" /></li>
+    <li><img src="{{ site.url }}/assets/images/camilamoraes/camilamoraes2.jpg" /></li>
+    <li><img src="{{ site.url }}/assets/images/camilamoraes/camilamoraes3.jpg" /></li>
+  </ul>
+</div>
