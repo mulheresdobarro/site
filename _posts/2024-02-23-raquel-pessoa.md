@@ -4,6 +4,9 @@ title:  "Raquel Pessoa"
 tags: artesas destaques
 permalink: "/raquelpessoa"
 foto: /assets/images/raquelpessoa/raquelpessoa.jpg
+nome: "Raquel Pessoa Dantas (Raquel Terraço Artes)"
+numero: 81991464118
+instagram: "@terraco_arts"
 ---
 
 

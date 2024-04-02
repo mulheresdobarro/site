@@ -3,7 +3,10 @@ layout: post
 title:  "Silvia Ribeiro"
 tags: artesas destaques
 permalink: "/silviaribeiro"
-foto: /assets/images/silviaribeiro/silviaribeiro.jpg  
+foto: /assets/images/silviaribeiro/silviaribeiro.jpg
+nome: "Silvia Kelly da Conceição Ribeiro (Silvia Ribeiro)"
+numero: 81989821134
+instagram: "@silvia_ribeiro10"
 ---
 
 

@@ -4,6 +4,9 @@ title:  "Leninha Nascimento"
 tags: artesas destaques
 permalink: "/leninhanascimento"
 foto: /assets/images/leninhanascimento/leninhanascimento.jpg
+nome: "Gecilene Maria do Nascimento (Leninha Artes)"
+numero: 81991156438
+instagram: "@leninha_nascimento"
 ---
 
 <div class="mostruario">

@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Linda Goveia"
+title:  "Linda Gouveia"
 tags: artesas destaques
-permalink: "/lindagoveia"
-foto: /assets/images/lindagoveia/lindagoveia.jpg
+permalink: "/lindagouveia"
+foto: /assets/images/lindagouveia/lindagouveia.jpg
+nome: ""
+numero:
+instagram: ""
 ---
 
 
