@@ -4,9 +4,10 @@ title:  "Linda Gouveia"
 tags: artesas destaques
 permalink: "/lindagouveia"
 foto: /assets/images/lindagouveia/lindagouveia.jpg
-nome: ""
-numero:
-instagram: ""
+nome: "Iva Cabral Gouveia da Silva"
+numero: 81994707898
+instagram: "@lindagouveiaaertesa"
+email: ""
 ---
 
 
