@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Leliana Dantas"
+title:  "Leli"
 tags: artesas destaques
 permalink: "/lelianadantas"
 foto: /assets/images/lelianadantas/lelianadantas.jpg
-nome: "Leliana Correia Dantas da Silva (Leli)"
+nome: "Leliana Correia Dantas da Silva"
 numero: 81999612366
 instagram: "@paneladeformigadecor"
+email: ""
 ---
 
 <div class="mostruario">
