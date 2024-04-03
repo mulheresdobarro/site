@@ -4,6 +4,10 @@ title:  "Dheny Santos"
 tags: artesas destaques
 permalink: "/dhenysantos"
 foto: /assets/images/dhenysantos/dhenysantos.jpg
+nome: "Dheniery (Dheny Santos)"
+numero: 81994796246
+instagram: "@dheny_santos.ceramista"
+email:
 ---
 
 <div class="mostruario">
