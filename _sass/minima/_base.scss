@@ -242,12 +242,6 @@ pre {
 
 }
 
-.documentario iframe { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .flex-container.active {
   transform: translate3d(300px, 0, 0);
   &::after {
