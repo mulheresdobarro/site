@@ -237,6 +237,11 @@ pre {
   height: 30%;
 }
 
+.documentario {
+  text-align: center;
+
+}
+
 .flex-container.active {
   transform: translate3d(300px, 0, 0);
   &::after {
