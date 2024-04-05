@@ -210,10 +210,6 @@ pre {
   
 }
 
-.foto-artesa {
-  text-align: center;
-}
-
 .lista h4{
   background-color: $marrom;
   color: $branco;
@@ -223,16 +219,49 @@ pre {
   }
   
 }
-.mostruario div {
+
+.lista-mapeadas {
+  width: 30%;
+  height: 250px;
+  float: left;
   text-align: center;
-}
-.mostruario ul {
-  list-style: none;
+  font-size: 20pt;
+  font-weight:800;
+  margin: $spacing-unit / 20;
+  padding: $spacing-unit / 20;
+  border: $spacing-unit / 20 solid $marrom;
+  background-color: $laranja;
+  
   
 }
-.mostruario li {
-  border: 5px solid $marrom;
-  float: left;
+
+.lista-mapeadas h4{
+  background-color: $marrom;
+  color: $branco;
+  &:hover {
+    color: $amarelo;
+    text-decoration: underline;
+  }
+  
+}
+
+.lista-mapeadas p {
+ font-size: small;
+ text-align: left;
+}
+
+.foto-artesa {
+  text-align: center;
+}
+
+.mostruario  {
+  padding-top: $spacing-unit;
+  text-align: center;
+}
+
+.mostruario img {
+  margin: $spacing-unit / 3;
+  border: 1px solid $marrom;
   width: 30%;
   height: 30%;
 }

@@ -11,11 +11,9 @@ instagram: "@silvia_ribeiro10"
 
 
 <div class="mostruario">
-  <ul>
-    <li><img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro1.jpg" /></li>
-    <li><img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro2.jpg" /></li>
-    <li><img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro3.jpg" /></li>
-    <li><img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro4.jpg" /></li>
-    <li><img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro5.jpg" /></li>
-  </ul>
+  <img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro1.jpg" />
+  <img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro2.jpg" />
+  <img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro3.jpg" />
+  <img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro4.jpg" />
+  <img src="{{ site.url }}/assets/images/silviaribeiro/silviaribeiro5.jpg" />
 </div>

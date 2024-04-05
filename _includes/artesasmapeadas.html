@@ -1,0 +1,23 @@
+<h1 class="post-title">Artesãs mapeadas</h1>
+{% for post in site.tags.artesas %}      
+
+  <div class="lista-mapeadas">
+    <a href="{{post.url}}"><h4>{{post.title}}</h4></a> 
+    <p>Nome: {{ post.nome }}</p>
+    <p>Número: <a href="tel:{{ post.numero }}">{{ post.numero }}</a></p>
+    {%- if post.email -%}
+    <p>Email: <a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
+    {%- endif -%}
+    {%- if post.instagram -%}
+    <a href="https://instagram.com/{{ post.instagram  }}" target="_blank">
+      <p> 
+      <svg class="svg-icon">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use>
+      </svg>@{{ post.instagram }}</p>
+      
+    </a>{%- endif -%}
+  </div>
+
+{% endfor %}
+
+

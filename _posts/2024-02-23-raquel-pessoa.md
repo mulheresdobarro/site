@@ -11,11 +11,9 @@ instagram: "@terraco_arts"
 
 
 <div class="mostruario">
-      <ul>
-        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa1.jpg" /></li>
-        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa2.jpg" /></li>       
-        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa3.jpg" /></li>
-        <li><img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa4.jpg" /></li>      
-      </ul>
+  <img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa1.jpg" />
+  <img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa2.jpg" />
+  <img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa3.jpg" />
+  <img src="{{ site.url }}/assets/images/raquelpessoa/raquelpessoa4.jpg" />
 </div>
   
