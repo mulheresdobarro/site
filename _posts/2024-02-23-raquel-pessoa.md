@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Raquel Pessoa"
+title:  "Terraço Artes"
 tags: artesas destaques
-permalink: "/raquelpessoa"
+permalink: "/terracoartes"
 foto: /assets/images/raquelpessoa/raquelpessoa.jpg
-nome: "Raquel Pessoa Dantas (Raquel Terraço Artes)"
+nome: "Raquel Pessoa Dantas"
 numero: 81991464118
-instagram: "@terraco_arts"
+instagram: "terraco_arts"
 ---
 
 

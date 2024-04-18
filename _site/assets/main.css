@@ -63,13 +63,19 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .lista h4:hover { color: #fff; text-decoration: underline; }
 
-.lista-mapeadas { width: 30%; height: 250px; float: left; text-align: center; font-size: 20pt; font-weight: 800; margin: 1.5px; padding: 1.5px; border: 1.5px solid #5f1c0c; background-color: #eb5e16; }
+.lista-mapeadas { width: 30%; height: 170px; float: left; text-align: center; font-size: 20pt; font-weight: 800; margin: 1.5px; padding: 1.5px; border: 1.5px solid #5f1c0c; background-color: #eb5e16; }
 
 .lista-mapeadas h4 { background-color: #5f1c0c; color: #fff; }
 
 .lista-mapeadas h4:hover { color: #f2c60f; text-decoration: underline; }
 
 .lista-mapeadas p { font-size: small; text-align: left; }
+
+.post-cabecalho { width: 30%; float: left; text-align: center; font-size: 20pt; font-weight: 800; margin: 1.5px; padding: 1.5px; border: 1.5px solid #5f1c0c; background-color: #eb5e16; }
+
+.post-cabecalho h4 { background-color: #5f1c0c; color: #fff; }
+
+.post-cabecalho p { font-size: small; text-align: left; }
 
 .foto-artesa { text-align: center; }
 
