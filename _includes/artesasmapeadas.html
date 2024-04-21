@@ -4,7 +4,14 @@
   <div class="lista-mapeadas">
     <a href="{{post.url}}"><h4>{{post.title}}</h4></a> 
     <p>Nome: {{ post.nome }}</p>
-    <p>Número: <a href="tel:{{ post.numero }}">{{ post.numero }}</a></p>
+    <p>
+      Número: <a href="tel:{{ post.numero }}">{{ post.numero }}</a>
+      <a href="https://wa.me/55{{ post.numero }}/?text=Peguei%20seu%20contato%20no%20site%20Mulheres%20do%20barro" target="_blank">
+        <svg class="svg-icon">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#whatsapp' | relative_url }}"></use>
+        </svg>
+      </a>
+    </p>
     {%- if post.email -%}
     <p>Email: <a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
     {%- endif -%}
