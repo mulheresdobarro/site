@@ -7,6 +7,7 @@ foto: /assets/images/elietelopes/elietelopes.jpg
 nome: "Eliete Pereira dos Santos"
 numero: 81994325719
 instagram: "elietelopes"
+youtube: "rawBwMH0p-U?si=2Uo9S-byk9TsvKI8"
 ---
 
 <div class="mostruario">

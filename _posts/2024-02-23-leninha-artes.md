@@ -7,6 +7,7 @@ foto: /assets/images/leninhanascimento/leninhanascimento.jpg
 nome: "Gecilene Maria do Nascimento"
 numero: 81991156438
 instagram: "leninha_nascimento"
+youtube: "DK1k8l-wTdQ?si=dp0Oaiqa25SqX8v7"
 ---
 
 <div class="mostruario">

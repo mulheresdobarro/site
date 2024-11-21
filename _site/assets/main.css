@@ -79,6 +79,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .foto-artesa { text-align: center; }
 
+.video { text-align: center; padding-top: 30px; }
+
 .mostruario { padding-top: 30px; text-align: center; }
 
 .mostruario img { margin: 10px; border: 1px solid #5f1c0c; width: 30%; height: 30%; }

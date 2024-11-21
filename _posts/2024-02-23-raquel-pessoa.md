@@ -7,6 +7,7 @@ foto: /assets/images/raquelpessoa/raquelpessoa.jpg
 nome: "Raquel Pessoa Dantas"
 numero: 81991464118
 instagram: "terraco_arts"
+youtube: "0xC_lfJnEbE?si=d22NHIk9JxzkSzzo"
 ---
 
 

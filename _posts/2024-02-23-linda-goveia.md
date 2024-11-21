@@ -7,6 +7,7 @@ foto: /assets/images/lindagouveia/lindagouveia.jpg
 nome: "Iva Cabral Gouveia da Silva"
 numero: 81994707898
 instagram: "lindagouveiaaertesa"
+youtube: "FhIWcfjTxc0?si=iBP3qr48rSTeiqGj"
 ---
 
 

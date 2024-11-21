@@ -7,6 +7,7 @@ foto: /assets/images/silviaribeiro/silviaribeiro.jpg
 nome: "Silvia Kelly da Conceição Ribeiro"
 numero: 81989821134
 instagram: "silvia_ribeiro10"
+youtube: "nwRsTPAYXf4?si=V_O_v_wyZCXdalVA"
 ---
 
 

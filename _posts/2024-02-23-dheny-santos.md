@@ -7,6 +7,7 @@ foto: /assets/images/dhenysantos/dhenysantos.jpg
 nome: "Dheniery Santos"
 numero: 81994796246
 instagram: "dheny_santos.ceramista"
+youtube: "5d1KcImEGDM?si=dDNAHCTJAiLixWyL"
 ---
 
 <div class="mostruario">
